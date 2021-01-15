@@ -1,5 +1,5 @@
 # 12SquaresCipher
-Archivo de excel para encriptar/desencriptar el cifrado de 12 cuadros
+Archivo de excel con macros para encriptar/desencriptar el cifrado de 12 cuadros
 
 Hoja de excel uitlizada para resolver el cifrado llamado "six-squarecipher" propuesto por el usuario ExecutionByFork en puzzling.stackexchange.com, basado en el cifrado original "four-squares" de Delastelle.
 Link original: https://puzzling.stackexchange.com/questions/105719/expanding-on-a-classic
